@@ -4,22 +4,23 @@
 <lastBuildDate>Fri, 14 Jan 2022 11:59:59 GMT</lastBuildDate>
  <job> 
  <name><![CDATA[Engineer1]]> </name>
- <countryCode><![CDATA[US]]></countryCode> 
  <desc><![CDATA[Do you have strong science based skills, we have a job for you.]]></desc>
-  <alpha_no><![CDATA[Alphanum1]]></alpha_no> 
   <company><![CDATA[Super Company]]></company>
+  <alpha_no><![CDATA[Alphanum1]]></alpha_no> 
   <published_at><![CDATA[Thu, 1 Nov 2022 22:49:39 GMT]]></published_at>
   <ref_no><![CDATA[Job1_test3]]></ref_no> 
+  
   <city><![CDATA[Atlanta]]></city> 
   <state><![CDATA[GIORGIA]]></state> 
   <postal_code><![CDATA[E2V0H2]]>
   </postal_code>
+  <countryCode><![CDATA[US]]></countryCode> 
   <applyUrl><![CDATA[https://starfleet.org/careers/1999-science-office]]></applyUrl> 
   <schedule><![CDATA[full_time]]></schedule> <!-- other elements --> 
   <streetDesc><![CDATA[2161 Federation Lane]]></streetDesc> 
   <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email>
    <category><![CDATA[Skilled Trade]]></category>
-   <pay_currency><![CDA$18.00 per hour]]></pay>
+     <pay_currency><![CDATA[USD]]></pay_currency>
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
     <pay_interval><![CDATA[hourly]]></pay_interval> 
