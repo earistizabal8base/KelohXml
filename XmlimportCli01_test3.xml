@@ -24,8 +24,8 @@
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
     <pay_interval><![CDATA[hourly]]></pay_interval> 
-    <workplace><![CDATA[hybridTA[USD]]></pay_currency>
-     <!-- acquire elements --> 
+    <workplace><![CDATA[hybridTA[USD]]></workplace>
+     <!-- acquire elements -->
     <latitude><![CDATA[46.116110]]></latitude>
     <longitude><![CDATA[-64.688150]]></longitude>
      </job>
