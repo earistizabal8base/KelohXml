@@ -20,11 +20,11 @@
   <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email>
    <category><![CDATA[Skilled Trade]]></category>
 
-   <pay_currency><![CDA$18.00 per hour]]></pay>
+   <pay_currency><![CDA$18.00 per hour]]></pay_currency>
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
     <pay_interval><![CDATA[hourly]]></pay_interval> 
-    <workplace><![CDATA[hybridTA[USD]]></pay_currency>
+    <workplace><![CDATA[hybridTA[USD]]></workplace>
     <pay><![CDATA[$15.00-]]></workplace> <!-- acquire elements --> 
     <latitude><![CDATA[46.116110]]></latitude>
     <longitude><![CDATA[-64.688150]]></longitude> </job>
@@ -43,7 +43,8 @@
     <schedule><![CDATA[full_time]]></schedule> <!-- other elements -->
     <streetDesc><![CDATA[2161 Federation Lane]]></streetDesc>
     <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email> 
-    <category><![CDATA[Skilled Trade]]></category> <pay><![CDATA[$15.00-$18.00 per hour]]></pay> 
+    <category><![CDATA[Skilled Trade]]></category> 
+     <pay><![CDATA[$15.00-$18.00 per hour]]></pay> 
     <pay_currency><![CDATA[USD]]></pay_currency>
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
