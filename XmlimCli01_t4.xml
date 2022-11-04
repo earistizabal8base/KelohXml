@@ -9,7 +9,6 @@
   <alpha_no><![CDATA[Alphanum1]]></alpha_no> 
   <published_at><![CDATA[Thu, 1 Nov 2022 22:49:39 GMT]]></published_at>
   <ref_no><![CDATA[Job1_test3]]></ref_no> 
-  
   <city><![CDATA[Atlanta]]></city> 
   <state><![CDATA[GIORGIA]]></state> 
   <postal_code><![CDATA[E2V0H2]]>
@@ -24,8 +23,7 @@
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
     <pay_interval><![CDATA[hourly]]></pay_interval> 
-    <workplace><![CDATA[hybridTA[USD]]></pay_currency>
-    <pay><![CDATA[$15.00-]]></workplace> <!-- acquire elements --> 
+    <workplace><![CDATA[hybridTA[USD]]></workplace> <!-- acquire elements --> 
     <latitude><![CDATA[46.116110]]></latitude>
     <longitude><![CDATA[-64.688150]]></longitude>
      </job>
