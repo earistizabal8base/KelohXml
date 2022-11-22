@@ -3,8 +3,8 @@
 <jjkjkfgjk>http://starfleet.org</jjkjkfgjk> 
 <lastBuildDate>Fri, 14 Jan 2022 11:59:59 GMT</lastBuildDate>
  <job> 
- <name><![CDATA[Engineer1]]> </name>
- <desc><![CDATA[Do you have strong science based skills, we have a job for you.]]></desc>
+ <title><![CDATA[Engineer1]]> </title>
+ <description><![CDATA[Do you have strong science based skills, we have a job for you.]]></description>
   <company><![CDATA[Super Company]]></company>
   <alpha_no><![CDATA[Alphanum1]]></alpha_no> 
   <published_at><![CDATA[Thu, 1 Nov 2022 22:49:39 GMT]]></published_at>
@@ -13,8 +13,8 @@
   <state><![CDATA[GIORGIA]]></state> 
   <postal_code><![CDATA[E2V0H2]]>
   </postal_code>
-  <countryCode><![CDATA[US]]></countryCode> 
-  <applyUrl><![CDATA[https://starfleet.org/careers/1999-science-office]]></applyUrl> 
+  <country_code><![CDATA[US]]></country_code> 
+  <apply_Url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_Url> 
   <schedule><![CDATA[full_time]]></schedule> <!-- other elements --> 
   <streetDesc><![CDATA[2161 Federation Lane]]></streetDesc> 
   <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email>
@@ -23,14 +23,14 @@
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
     <pay_interval><![CDATA[hourly]]></pay_interval> 
-    <workplace><![CDATA[hybridTA[USD]]></workplace> <!-- acquire elements --> 
+    <workplace><![CDATA[hybrid]]></workplace> <!-- acquire elements --> 
     <latitude><![CDATA[46.116110]]></latitude>
     <longitude><![CDATA[-64.688150]]></longitude>
      </job>
     <job> 
-    <name><![CDATA[Engineer2]]></name>
-    <countryCode><![CDATA[US]]></countryCode>
-    <desc><![CDATA[Do you have strong science based skills, we have a job for you.]]></desc> 
+    <title><![CDATA[Engineer2]]></title>
+    <country_code><![CDATA[US]]></country_code>
+    <description><![CDATA[Do you have strong science based skills, we have a job for you.]]></description> 
     <alpha_no><![CDATA[Alphanum2]]></alpha_no>
     <company><![CDATA[Starfleet Command]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
@@ -38,7 +38,7 @@
     <city><![CDATA[Atlanta]]></city> 
     <state><![CDATA[GIORGIA]]></state> 
      <postal_code><![CDATA[E2V0H2]]></postal_code>
-    <applyUrl><![CDATA[https://starfleet.org/careers/1999-science-office]]></applyUrl> 
+    <apply_Url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_Url> 
     <schedule><![CDATA[full_time]]></schedule> <!-- other elements -->
     <streetDesc><![CDATA[2161 Federation Lane]]></streetDesc>
     <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email> 
