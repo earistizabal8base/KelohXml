@@ -14,7 +14,7 @@
   <postal_code><![CDATA[E2V0H2]]>
   </postal_code>
   <country_code><![CDATA[US]]></country_code> 
-  <apply_Url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_Url> 
+  <apply_url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_url> 
   <schedule><![CDATA[full_time]]></schedule> <!-- other elements --> 
   <streetDesc><![CDATA[2161 Federation Lane]]></streetDesc> 
   <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email>
@@ -38,7 +38,7 @@
     <city><![CDATA[Atlanta]]></city> 
     <state><![CDATA[GIORGIA]]></state> 
      <postal_code><![CDATA[E2V0H2]]></postal_code>
-    <apply_Url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_Url> 
+    <apply_url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_url> 
     <schedule><![CDATA[full_time]]></schedule> <!-- other elements -->
     <streetDesc><![CDATA[2161 Federation Lane]]></streetDesc>
     <apply_email><![CDATA[recruiting@supercompany.org]]></apply_email> 
