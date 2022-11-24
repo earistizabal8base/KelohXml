@@ -2,19 +2,19 @@
 <publisher>Starfleet Command</publisher> 
 <lastBuildDate>Fri, 14 Jan 2022 11:59:59 GMT</lastBuildDate>
  <job> 
- <title><![CDATA[Cientific Officer]]></title>
+ <title><![CDATA[Teacher]]></title>
 <description><![CDATA[Do you have strong science based skills, we have a job for you.]]></description>
- <company><![CDATA[Starfleet Command]]></company>
+ <company><![CDATA[Drucie]]></company>
   <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
   <ref_no><![CDATA[JobCli01_eli01]]></ref_no> 
-  <city><![CDATA[Albuquerque]]></city> 
-<state><![CDATA[NM]]></state> 
-<postal_code><![CDATA[E2V0H2]]></postal_code>
+  <city><![CDATA[ReykjavÃk]]></city> 
+<state><![CDATA[FL]]></state> 
+<postal_code><![CDATA[94102]]></postal_code>
  <country_code><![CDATA[US]]></country_code> 
-  <apply_url><![CDATA[https://starfleet.org/careers/1999-science-office]]></apply_url> 
-    <street><![CDATA[2161 Federation Lane]]></street> 
+  <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url> 
+    <street><![CDATA[001 Federation Lane]]></street> 
    <schedule><![CDATA[full_time]]></schedule> <!-- other elements --> 
-  <category><![CDATA[Skilled Trade]]></category>
+  <category><![CDATA[Operations]]></category>
 <pay><![CDATA[$15.00-$18.00 per hour]]></pay>
     <pay_min><![CDATA[15.3]]></pay_min> 
     <pay_max><![CDATA[18.00]]></pay_max> 
