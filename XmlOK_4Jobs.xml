@@ -4,6 +4,7 @@
  <job> 
  <title><![CDATA[Teacher]]></title>
 <description><![CDATA[Do you have strong science based skills, we have a job for you.]]></description>
+  <geo_topo><![CDATA[hub]]></geo_topo>
  <company><![CDATA[Drucie]]></company>
   <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
   <ref_no><![CDATA[JobCli01_eli01]]></ref_no> 
