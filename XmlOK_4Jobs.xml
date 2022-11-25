@@ -24,7 +24,5 @@
     <workplace><![CDATA[hybrid]]></workplace> <!-- acquire elements --> 
 <apply_email><![CDATA[recruiting@starfleet.org]]></apply_email>
   <alpha_no><![CDATA[Science]]></alpha_no> 
-  
-   </job>
-    
-</source>
+    </job>
+  </source>
