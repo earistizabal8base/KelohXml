@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?> <source>
+  <publisher>Starfleet Command</publisher> 
+  <lastBuildDate>Fri, 14 Jan 2022 11:59:59 GMT</lastBuildDate>
+  <job>
+    <title>Teacher</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>hub</geo_topo>
+    <company>Drucie</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>REFELI01</ref_no>
+    <city>ReykjavÃ­k</city>
+    <state>FL</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>hybrid</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Taxi Driver</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>hub</geo_topo>
+    <company>Fidelia</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>REFELI02</ref_no>
+    <city>Yakutsk</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>hybrid</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Stylist</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>cluster</geo_topo>
+    <company>Fanny</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>ISO8601</ref_no>
+    <city>SÃ£o JosÃ© dos Campos</city>
+    <state>FL</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>on-site</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Mailman</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>hub</geo_topo>
+    <company>Aubrie</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>REFELI03</ref_no>
+    <city>Suez</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>on-site</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Developer</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>cluster</geo_topo>
+    <company>Kelly</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>REFELI04</ref_no>
+    <city>Yekaterinburg</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>on-site</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Scrum Master</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>hub</geo_topo>
+    <company>Rosaline</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>ISO8602</ref_no>
+    <city>Stockholm</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>remote</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Product Owner</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>hub</geo_topo>
+    <company>Caryl</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>ISO8601</ref_no>
+    <city>Salzburg</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>remote</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Designer</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>cluster</geo_topo>
+    <company>Jorry</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>REFELI05</ref_no>
+    <city>Kandy</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>remote</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Scientist</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>hub</geo_topo>
+    <company>Brena</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>ISO8603</ref_no>
+    <city>Harbin</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>hybrid</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+  <job>
+    <title>Chemical Dev</title>
+    <description>Do you have strong science based s</description>
+    <geo_topo>cluster</geo_topo>
+    <company>Yolane</company>
+    <published_at>Thu, 1 Jan 2022 22:49:39 GMT</published_at>
+    <ref_no>ISO8604</ref_no>
+    <city>Kobe</city>
+    <state>CA</state>
+    <postal_code>94102</postal_code>
+    <country_code>US</country_code>
+    <apply_url>https://starfleet.org/careers.es</apply_url>
+    <street>001 Federation Lane</street>
+    <schedule>full_time</schedule>
+    <category>Operations</category>
+    <pay>$15.00-$18.00 per hour</pay>
+    <pay_min>25</pay_min>
+    <pay_max>40</pay_max>
+    <pay_interval>hourly</pay_interval>
+    <pay_currency>USD</pay_currency>
+    <workplace>on-site</workplace>
+    <apply_email>recruiting@starfleet.org</apply_email>
+    <alpha_no>Science</alpha_no>
+  </job>
+</source>
