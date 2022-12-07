@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?xml version='1.0' encoding='UTF-8'?> <source>
   <publisher>Starfleet Command</publisher>
   <lastBuildDate>Fri, 14 Jan 2022 11:59:59 GMT</lastBuildDate>
@@ -272,5 +272,5 @@
 <schedule><![CDATA[full_time]]></schedule>
 <pay_currency><![CDATA[USD]]></pay_currency>
 </job>
->>>>>>> 64a35ae (resolved merge conflicts or any other message)
+
 </source>
