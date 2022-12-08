@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?> <source>
+<publisher>Starfleet Command</publisher> 
+<lastBuildDate>Fri, 14 Jan 2022 11:59:59 GMT</lastBuildDate>
+ <job>
+  <title><![CDATA[TeacherELI]]></title>
+<description><![CDATA[Do you have strong science TeacherELI]]></description>
+  <geo_topo><![CDATA[hub]]></geo_topo>
+ <company><![CDATA[Drucie]]></company>
+  <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
+  <ref_no><![CDATA[REFELI01]]></ref_no> 
+  <city><![CDATA[ReykjavÃk]]></city> 
+<state><![CDATA[FL]]></state> 
+<postal_code><![CDATA[94102]]></postal_code>
+ <country_code><![CDATA[US]]></country_code> 
+  <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url> 
+    <street><![CDATA[001 Federation Lane]]></street> 
+   <schedule><![CDATA[full_time]]></schedule> <!-- other elements --> 
+  <category><![CDATA[Operations]]></category>
+<pay><![CDATA[$15.00-$18.00 per hour]]></pay>
+    <pay_min><![CDATA[15.3]]></pay_min> 
+    <pay_max><![CDATA[18.00]]></pay_max> 
+    <pay_interval><![CDATA[hourly]]></pay_interval> 
+<pay_currency><![CDATA[USD]]></pay_currency>
+    <workplace><![CDATA[Errr]]></workplace> <!-- acquire elements --> 
+<apply_email><![CDATA[recruiting@starfleet.org]]></apply_email>
+  <alpha_no><![CDATA[Science]]></alpha_no> 
+    </job>
+  </source>
