@@ -7,8 +7,8 @@
     <geo_topo><![CDATA[hub]]></geo_topo>
     <company><![CDATA[Drucie]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[REFELI01]]></ref_no>
-   <city><![CDATA[Reykjav­k]]></city>
+   <ref_no><![CDATA[REFT1]]></ref_no>
+   <city><![CDATA[Reykjavk]]></city>
     <state><![CDATA[FL]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
     <country_code><![CDATA[US]]></country_code> 
@@ -31,7 +31,7 @@
     <geo_topo><![CDATA[hub]]></geo_topo>
     <company><![CDATA[Fidelia]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[REFELI02]]></ref_no>
+   <ref_no><![CDATA[REFT2]]></ref_no>
    <city><![CDATA[Yakutsk]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -55,7 +55,7 @@
     <geo_topo><![CDATA[cluster]]></geo_topo>
     <company><![CDATA[Fanny]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[ISO8601]]></ref_no>
+   <ref_no><![CDATA[REFT3]]></ref_no>
    <city><![CDATA[SÃ£o JosÃ© dos Campos]]></city>
     <state><![CDATA[FL]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -79,7 +79,7 @@
     <geo_topo><![CDATA[hub]]></geo_topo>
     <company><![CDATA[Aubrie]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[REFELI03]]></ref_no>
+   <ref_no><![CDATA[REFT4]]></ref_no>
    <city><![CDATA[Suez]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -103,7 +103,7 @@
     <geo_topo><![CDATA[cluster]]></geo_topo>
     <company><![CDATA[Kelly]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[REFELI04]]></ref_no>
+   <ref_no><![CDATA[REFT5]]></ref_no>
    <city><![CDATA[Yekaterinburg]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -127,7 +127,7 @@
     <geo_topo><![CDATA[hub]]></geo_topo>
     <company><![CDATA[Rosaline]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[ISO8602]]></ref_no>
+   <ref_no><![CDATA[REFT6]]></ref_no>
    <city><![CDATA[Stockholm]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -151,7 +151,7 @@
     <geo_topo><![CDATA[hub]]></geo_topo>
     <company><![CDATA[Caryl]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[ISO8601]]></ref_no>
+   <ref_no><![CDATA[REFT7]]></ref_no>
    <city><![CDATA[Salzburg]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -175,7 +175,7 @@
     <geo_topo><![CDATA[cluster]]></geo_topo>
     <company><![CDATA[Jorry]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[REFELI05]]></ref_no>
+   <ref_no><![CDATA[REFT8]]></ref_no>
    <city><![CDATA[Kandy]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -199,7 +199,7 @@
     <geo_topo><![CDATA[hub]]></geo_topo>
     <company><![CDATA[Brena]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[ISO8603]]></ref_no>
+   <ref_no><![CDATA[REFT9]]></ref_no>
    <city><![CDATA[Harbin]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
@@ -223,7 +223,7 @@
     <geo_topo><![CDATA[cluster]]></geo_topo>
     <company><![CDATA[Yolane]]></company>
     <published_at><![CDATA[Thu, 1 Jan 2022 22:49:39 GMT]]></published_at>
-   <ref_no><![CDATA[ISO8604]]></ref_no>
+   <ref_no><![CDATA[REFT10]]></ref_no>
    <city><![CDATA[Kobe]]></city>
     <state><![CDATA[CA]]></state>
     <postal_code><![CDATA[94102]]></postal_code>
